@@ -3,13 +3,13 @@
 
 Aniwave:
   url: https://aniwave.li/filter?keyword=<query>
-  title: Aniwave.li
+  title: aw
   tags:
   - Anime
   - Watching
 Aniwave:
   url: https://myanimelist.net/search/all?q=<query>&cat=all
-  title: MyAnimeList
+  title: mal
   tags:
   - Anime
   - Documentation
