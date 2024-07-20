@@ -1,15 +1,21 @@
 # Documentation:
 # https://trovu.net/docs/shortcuts/
 
-Aniwave:
+aw 0:
   url: https://aniwave.li/filter?keyword=<query>
-  title: aw
-  tags:
-  - Anime
-  - Watching
-MyAnimeList:
+  title: Aniwave.li
+mal 0:
   url: https://myanimelist.net/search/all?q=<query>&cat=all
-  title: mal
-  tags:
-  - Anime
-  - Documentation
+  title: MyAnimeList.net
+#Aniwave:
+#  url: https://aniwave.li/filter?keyword=<query>
+#  title: aw
+#  tags:
+#  - Anime
+#  - Watching
+#MyAnimeList:
+#  url: https://myanimelist.net/search/all?q=<query>&cat=all
+#  title: mal
+#  tags:
+#  - Anime
+#  - Documentation
