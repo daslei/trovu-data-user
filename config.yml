@@ -4,6 +4,8 @@ namespaces:
 - o
 - en
 - .us
+- es
+- .es
 - github: .
   name: my
 # defaultKeyword: ec 
