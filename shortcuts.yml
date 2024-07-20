@@ -14,16 +14,16 @@ aw 1: http://www.example.com/?q=<query>
   title: Aniwave.li
   description: Wide selection of anime to watch.
   tags:
-    - Anime
-    - Watching
+  - Anime
+  - Watching
 mal 0: https://myanimelist.net/
 mal 1: https://myanimelist.net/search/all?q=<query>&cat=all
   title: MyAnimeList.net
   Description: Information and opinions on anime and manga.
   tags:
-    - Anime
-    - Documentation
-    - Discussion
+  - Anime
+  - Documentation
+  - Discussion
 
 #Aniwave 2:
 #  url: https://aniwave.li/filter?keyword=<query>
