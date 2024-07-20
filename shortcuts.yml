@@ -12,7 +12,7 @@
 aw 0:
   url: https://aniwave.li/
 aw 1:
-  url: http://www.example.com/?q=<query>
+  url: https://aniwave.li/filter?keyword=<query>
   title: Aniwave.li
   description: Wide selection of anime to watch.
   tags:
