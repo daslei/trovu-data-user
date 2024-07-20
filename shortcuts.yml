@@ -1,14 +1,14 @@
 # Documentation:
 # https://trovu.net/docs/shortcuts/
 
-examplekeyword 0: http://www.example.com/
-examplekeyword 1: http://www.example.com/?q=<query>
-examplekeyword 2:
-  url: http://www.example.com/?q=<query>&p=<puery>
-  title: Custom shortcut
-  description: My custom shortcut with the keyword examplekeyword and 2 arguments.
-  tags:
-  - example
+#examplekeyword 0: http://www.example.com/
+#examplekeyword 1: http://www.example.com/?q=<query>
+#examplekeyword 2:
+#  url: http://www.example.com/?q=<query>&p=<puery>
+#  title: Custom shortcut
+#  description: My custom shortcut with the keyword examplekeyword and 2 arguments.
+#  tags:
+#  - example
 aw 0:
   url: https://aniwave.li/
 aw 1:
