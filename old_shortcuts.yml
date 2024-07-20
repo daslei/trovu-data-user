@@ -1,11 +1,15 @@
 # Documentation:
 # https://trovu.net/docs/shortcuts/
 
-examplekeyword 0: http://www.example.com/
-examplekeyword 1: http://www.example.com/?q=<query>
-examplekeyword 2:
-  url: http://www.example.com/?q=<query>&p=<puery>
-  title: Custom shortcut
-  description: My custom shortcut with the keyword examplekeyword and 2 arguments.
+Aniwave:
+  url: https://aniwave.li/filter?keyword=<query>
+  title: Aniwave.li
   tags:
-  - example
+  - Anime
+  - Watching
+Aniwave:
+  url: https://myanimelist.net/search/all?q=<query>&cat=all
+  title: MyAnimeList
+  tags:
+  - Anime
+  - Documentation
