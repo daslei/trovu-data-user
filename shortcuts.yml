@@ -4,12 +4,14 @@
 Aniwave 2:
   url: https://aniwave.li/filter?keyword=<query>
   title: aw
+  Description: Wide selection of anime to watch.
   tags:
   - Anime
   - Watching
 MyAnimeList 2:
   url: https://myanimelist.net/search/all?q=<query>&cat=all
   title: mal
+  Description: Information and opinions on anime and manga.
   tags:
   - Anime
   - Documentation
