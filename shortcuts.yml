@@ -41,7 +41,7 @@ al 1:
 edit 0:
   url: https://github.com/daslei/trovu-data-user/edit/master/shortcuts.yml
 hi 0:
-url: https://hianime.to/home
+  url: https://hianime.to/home
 hi 1:
   url: https://hianime.to/search?keyword=<query>
   title: hianime.to
