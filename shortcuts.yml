@@ -10,10 +10,10 @@
 #  tags:
 #  - example
 aw 0:
-  url: https://aniwave.li/
+  url: https://aniwave.to/
 aw 1:
-  url: https://aniwave.li/filter?keyword=<query>
-  title: Aniwave.li
+  url: https://aniwave.to/filter?keyword=<query>
+  title: Aniwave.to
   description: Wide selection of anime to watch.
   tags:
   - Anime
