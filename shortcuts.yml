@@ -28,9 +28,9 @@ mal 1:
   - Anime
   - Documentation
   - Discussion
-al 0:
+ani 0:
   url: https://anilist.co/
-al 1:
+ani 1:
   url: https://anilist.co/search/anime?search=<query>
   title: Anilist.co
   description: Information and opinions on anime and manga.
