@@ -49,6 +49,14 @@ hi 1:
   tags:
   - Anime
   - Streaming
+md 0:
+  url: https://mangadex.org/
+md 1:
+  url: https://mangadex.org/search?q=<query>
+  title: mangadex.org
+  description: manga readering
+  tags:
+  - Manga
 daslei 0:
   url: https://mail.proton.me/u/0/inbox
 ivory 0:
