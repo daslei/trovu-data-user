@@ -41,10 +41,10 @@ ani 1:
 edit 0:
   url: https://github.com/daslei/trovu-data-user/edit/master/shortcuts.yml
 hi 0:
-  url: https://hianime.to/home
+  url: https://hianimez.to/home
 hi 1:
-  url: https://hianime.to/search?keyword=<query>
-  title: hianime.to
+  url: https://hianimez.to/search?keyword=<query>
+  title: hianimez.to
   description: Wide selection of anime to watch.
   tags:
   - Anime
