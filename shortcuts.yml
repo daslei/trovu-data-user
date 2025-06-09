@@ -49,6 +49,15 @@ hi 1:
   tags:
   - Anime
   - Streaming
+mi 0:
+  url: https://miruro.tv
+mi 1:
+  url: https://www.miruro.tv/search?query=<query>&sort=POPULARITY_DESC&type=ANIME
+  title: miruro.tv
+  description: Wide selection of anime to watch with an account linked to ANILIST.
+  tags:
+  - Anime
+  - Streaming
 md 0:
   url: https://mangadex.org/
 md 1:
