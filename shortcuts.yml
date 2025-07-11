@@ -38,6 +38,16 @@ ani 1:
   - Anime
   - Documentation
   - Discussion
+anim 0:
+  url: https://anilist.co/
+anim 1:
+  url: https://anilist.co/search/manga?search=<query>
+  title: Anilist.co
+  description: Information and opinions on anime and manga.
+  tags:
+  - Manga
+  - Documentation
+  - Discussion
 edit 0:
   url: https://github.com/daslei/trovu-data-user/edit/master/shortcuts.yml
 hi 0:
