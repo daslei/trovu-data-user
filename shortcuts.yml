@@ -93,6 +93,11 @@ pcl 0:
   url: https://es.pcpartpicker.com/user/daslei/saved/#view=GFvp3C
 h 0:
   url: https://youtube.com/feed/history
+
+
+lmi 0:
+  url: https://mail.google.com/mail/u/3/#inbox
+
 #Aniwave 2:
 #  url: https://aniwave.li/filter?keyword=<query>
 #  title: aw
