@@ -93,6 +93,8 @@ pcl 0:
   url: https://es.pcpartpicker.com/user/daslei/saved/#view=GFvp3C
 h 0:
   url: https://youtube.com/feed/history
+h 1::
+  url: https://www.youtube.com/feed/history?query=<query>
 cc 0:
   url: https://cloudconvert.com
 
