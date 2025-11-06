@@ -97,6 +97,10 @@ h 1::
   url: https://www.youtube.com/feed/history?query=<query>
 cc 0:
   url: https://cloudconvert.com
+deep 0:
+  url: https://deepwoken.fandom.com/wiki/Deepwoken_Wiki
+deep 1:
+  url: https://deepwoken.fandom.com/wiki/Special:Search?scope=internal&navigationSearch=true&query=<query>
 
 lmi 0:
   url: https://mail.google.com/mail/u/3/#inbox
