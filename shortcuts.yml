@@ -59,6 +59,15 @@ hi 1:
   tags:
   - Anime
   - Streaming
+ak 0:
+  url: https://animekai.to/home
+ak 1:
+  url: https://animekai.to/browser?keyword=<query>
+  title: animekai.to/home
+  description: Wide selection of anime to watch.
+  tags:
+  - Anime
+  - Streaming
 mi 0:
   url: https://miruro.tv
 mi 1:
