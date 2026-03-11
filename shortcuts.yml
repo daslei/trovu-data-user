@@ -112,7 +112,11 @@ deep 1:
   url: https://deepwoken.fandom.com/wiki/Special:Search?scope=internal&navigationSearch=true&query=<query>
 dcq 0:
   url: https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb
-
+jd 0:
+  url: https://japandict.com
+jd 1:
+  url: https://japandict.com/?s=<query>&lang=eng
+  title: Japan Dictionary
 lmi 0:
   url: https://mail.google.com/mail/u/3/#inbox
 cr 0:
