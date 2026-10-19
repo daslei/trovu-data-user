@@ -9,6 +9,13 @@
 #  description: My custom shortcut with the keyword examplekeyword and 2 arguments.
 #  tags:
 #  - example
+
+#duckduckgo no ai:
+dn 0:
+  url: https://noai.duckduckgo.com/
+dn 1:
+  url: https://noai.duckduckgo.com/?q=<query>
+
 aw 0:
   url: https://aniwave.to/
 aw 1:
