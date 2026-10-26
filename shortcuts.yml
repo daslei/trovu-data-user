@@ -76,9 +76,9 @@ ak 1:
   - Anime
   - Streaming
 mi 0:
-  url: https://miruro.tv
+  url: https://miruro.cx
 mi 1:
-  url: https://www.miruro.tv/search?query=<query>&sort=POPULARITY_DESC&type=ANIME
+  url: https://www.miruro.cx/search?query=<query>&sort=POPULARITY_DESC&type=ANIME
   title: miruro.tv
   description: Wide selection of anime to watch with an account linked to ANILIST.
   tags:
